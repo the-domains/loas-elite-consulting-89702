@@ -8,8 +8,8 @@ keywords:
   - free
   - upload
 title: US Navy SEALS - The Only Easy Day Was Yesterday
-datePublished: '2017-12-07T18:38:05.924Z'
-dateModified: '2017-10-15T14:59:08.786Z'
+datePublished: '2017-12-07T18:41:46.680Z'
+dateModified: '2017-12-07T18:41:46.502Z'
 publisher:
   name: YouTube
   domain: www.youtube.com
@@ -22,9 +22,9 @@ author:
 inFeed: true
 description: Hooyah!!
 via: {}
+sourcePath: _posts/2017-08-11-us-navy-seals-the-only-easy-day-was-yesterday.md
 starred: false
 datePublishedOriginal: '2017-08-11T13:14:37.595Z'
-sourcePath: _posts/2017-08-11-us-navy-seals-the-only-easy-day-was-yesterday.md
 _type: VideoObject
 _context: 'http://schema.org'
 
