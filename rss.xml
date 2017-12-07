@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[LOAS Elite Consulting]]></title>
+        <description><![CDATA[LOAS Elite Consulting]]></description>
+        <link>http://www.loas.business/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Dec 2017 18:38:07 GMT</lastBuildDate>
+        <atom:link href="http://www.loas.business/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 07 Dec 2017 18:38:06 GMT</pubDate>
+        <item>
+            <title><![CDATA[US Navy SEALS - The Only Easy Day Was Yesterday]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCXl8PKzjMIg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCXl8PKzjMIg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCXl8PKzjMIg%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=CXl8PKzjMIg</link>
+            <guid isPermaLink="false">9f41941b-3d34-4a5d-ab9f-51ec14724d78</guid>
+            <pubDate>Fri, 11 Aug 2017 13:14:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
