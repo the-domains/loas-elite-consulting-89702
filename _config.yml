@@ -1,0 +1,33 @@
+layout_spectrum: 0.36856642275218765
+typography_spectrum: 0.6802063679287561
+color:
+  brandStrength: 0.6844711777723699
+  lightness: 0.2466553633913656
+  saturation: 0.39230475938141274
+  rhythmicContrast: 0.1506196940073393
+  brandColors:
+    - '#FFFBFC'
+    - '#080705'
+    - '#6081B4'
+    - '#354265'
+    - '#FDD69D'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: LOAS Elite Consulting
+content: []
+title: ''
+description: ''
+purpose:
+  - type: contact
+    url: 'mailto:loas@protonmail.com'
+    label: Correspond with LOAS
+  - type: external
+    url: 'http://paypal.me/LOASElite'
+    label: Checkout
+url: 'https://www.loas.business'
+github: true
