@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: The Yearly Walk through of Health for your business.
-dateModified: '2017-12-21T15:11:24.721Z'
-datePublished: '2017-12-21T15:11:25.243Z'
+dateModified: '2017-12-21T15:52:58.734Z'
+datePublished: '2017-12-21T15:52:59.119Z'
 title: ''
 author: []
 publisher: {}
@@ -19,7 +19,3 @@ _type: Blurb
 **The Yearly Walk through of Health for your business.**
 
 _An unbiased measure of your systems and policies and their successes, in their respective metrics with regards to Systems and Policies, including Financials, Inventory, Point Of Sale System, Human Resources, Marketing, Historical performance, Future goals, as well as other custom systems implemented by you. The result, is clarity of your business model on the successful and stagnant actions, which are impeding your growth as an establishment. This consists of 3 consecutive days on Site._
-
-$**6997\*** if booked and prepaid before Feb 28th, 2018
-
-\*Special Pricing\*
