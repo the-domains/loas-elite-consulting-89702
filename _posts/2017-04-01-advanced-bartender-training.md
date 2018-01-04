@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: Advanced Bartender Training 4 Days @ Coaches in Gahanna
-dateModified: '2017-12-21T18:11:48.267Z'
-datePublished: '2017-12-21T18:11:49.175Z'
+description: 'Advanced Bartender Training '
+dateModified: '2018-01-04T16:14:34.174Z'
+datePublished: '2018-01-04T16:14:34.624Z'
 title: ''
 author: []
 publisher: {}
@@ -17,7 +17,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/492856c3-e2e5-463c-a902-c0d86f080b42.jpg)
 
-_Advanced Bartender Training 4 Days @ Coaches in Gahanna_
+_Advanced Bartender Training _
 
 * This Program is offered during the months of Jan-Sept and open for enrollment now.
 * _Building a following_
