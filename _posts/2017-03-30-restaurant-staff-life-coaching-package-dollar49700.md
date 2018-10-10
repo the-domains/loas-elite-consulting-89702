@@ -1,7 +1,7 @@
 ---
 title: ''
-datePublished: '2018-10-10T13:44:19.303Z'
-dateModified: '2018-10-10T13:44:18.829Z'
+datePublished: '2018-10-10T13:44:29.685Z'
+dateModified: '2018-10-10T13:44:29.342Z'
 publisher: {}
 author: []
 inFeed: true
@@ -27,6 +27,5 @@ _LOAS Elite Yearly package includes a 12 hour ["Deliberately Creating You"][0], 
 * _Client Email Support_
 * _Dedicated and Private FB Mastermind group to empower your employees to excel in your business, and to benefit their own self mastery._
 * _Meditation, Sales, and Wealth Consciousness training included_
-* And So much more...
 
 [0]: https://thegrid.ai/dcyou/?cache=no
